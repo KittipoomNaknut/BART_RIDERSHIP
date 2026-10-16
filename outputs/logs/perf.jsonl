@@ -1,0 +1,262 @@
+{"ts": "2026-10-12T17:33:01", "stage": "00.gpu_smoke_test", "wall_s": 1.474, "cpu_s": 5.48, "effective_cores": 3.72, "peak_rss_gb": 0.603, "avg_cpu_pct": 29.8, "peak_gpu_mem_mb": 1213.0}
+{"ts": "2026-10-12T17:33:03", "stage": "00.raw_csv_profile", "wall_s": 1.725, "cpu_s": 29.88, "effective_cores": 17.32, "peak_rss_gb": 1.909, "avg_cpu_pct": 92.0}
+{"ts": "2026-10-12T17:38:37", "stage": "00.gpu_test", "wall_s": 1.064, "cpu_s": 3.65, "effective_cores": 3.43, "peak_rss_gb": 1.284, "avg_cpu_pct": 24.6, "peak_gpu_mem_mb": 1447.0}
+{"ts": "2026-10-12T17:38:39", "stage": "00.raw_csv_profile", "wall_s": 1.79, "cpu_s": 29.62, "effective_cores": 16.54, "peak_rss_gb": 1.916, "avg_cpu_pct": 92.4}
+{"ts": "2026-10-12T17:42:17", "stage": "00.gpu_test", "wall_s": 1.167, "cpu_s": 4.44, "effective_cores": 3.81, "peak_rss_gb": 1.448, "avg_cpu_pct": 24.9, "peak_gpu_mem_mb": 1194.0}
+{"ts": "2026-10-12T17:42:19", "stage": "00.raw_csv_profile", "wall_s": 1.773, "cpu_s": 29.5, "effective_cores": 16.64, "peak_rss_gb": 1.97, "avg_cpu_pct": 92.2}
+{"ts": "2026-10-12T17:42:39", "stage": "00.gpu_test", "wall_s": 1.369, "cpu_s": 4.99, "effective_cores": 3.65, "peak_rss_gb": 0.598, "avg_cpu_pct": 24.5, "peak_gpu_mem_mb": 1338.0}
+{"ts": "2026-10-12T17:42:41", "stage": "00.raw_csv_profile", "wall_s": 1.758, "cpu_s": 29.54, "effective_cores": 16.8, "peak_rss_gb": 1.882, "avg_cpu_pct": 92.3}
+{"ts": "2026-10-12T19:01:41", "stage": "01.csv_to_parquet", "wall_s": 4.208, "cpu_s": 75.02, "effective_cores": 17.83, "peak_rss_gb": 5.334, "avg_cpu_pct": 96.4}
+{"ts": "2026-10-12T19:01:42", "stage": "01.validate", "wall_s": 1.104, "cpu_s": 18.6, "effective_cores": 16.84, "peak_rss_gb": 4.761, "avg_cpu_pct": 91.4}
+{"ts": "2026-10-12T19:02:28", "stage": "01.csv_to_parquet", "wall_s": 4.493, "cpu_s": 74.99, "effective_cores": 16.69, "peak_rss_gb": 4.984, "avg_cpu_pct": 93.0}
+{"ts": "2026-10-12T19:02:29", "stage": "01.validate", "wall_s": 1.117, "cpu_s": 18.4, "effective_cores": 16.48, "peak_rss_gb": 4.748, "avg_cpu_pct": 89.9}
+{"ts": "2026-10-12T19:04:23", "stage": "01.csv_to_parquet", "wall_s": 4.475, "cpu_s": 76.25, "effective_cores": 17.04, "peak_rss_gb": 4.891, "avg_cpu_pct": 95.3}
+{"ts": "2026-10-12T19:04:24", "stage": "01.validate", "wall_s": 1.124, "cpu_s": 18.53, "effective_cores": 16.49, "peak_rss_gb": 4.664, "avg_cpu_pct": 89.7}
+{"ts": "2026-10-12T19:05:11", "stage": "01.csv_to_parquet", "wall_s": 4.389, "cpu_s": 75.24, "effective_cores": 17.14, "peak_rss_gb": 5.385, "avg_cpu_pct": 97.2}
+{"ts": "2026-10-12T19:05:12", "stage": "01.validate", "wall_s": 1.132, "cpu_s": 18.41, "effective_cores": 16.26, "peak_rss_gb": 4.676, "avg_cpu_pct": 89.7}
+{"ts": "2026-10-12T19:07:26", "stage": "01.csv_to_parquet", "wall_s": 4.524, "cpu_s": 75.3, "effective_cores": 16.65, "peak_rss_gb": 4.923, "avg_cpu_pct": 94.5}
+{"ts": "2026-10-12T19:07:27", "stage": "01.validate", "wall_s": 1.149, "cpu_s": 18.42, "effective_cores": 16.03, "peak_rss_gb": 4.468, "avg_cpu_pct": 88.5}
+{"ts": "2026-10-12T19:25:32", "stage": "00.gpu_test", "wall_s": 1.393, "cpu_s": 4.85, "effective_cores": 3.48, "peak_rss_gb": 0.592, "avg_cpu_pct": 22.9, "peak_gpu_mem_mb": 1123.0}
+{"ts": "2026-10-12T19:25:34", "stage": "00.raw_csv_profile", "wall_s": 1.742, "cpu_s": 29.19, "effective_cores": 16.75, "peak_rss_gb": 2.013, "avg_cpu_pct": 90.6}
+{"ts": "2026-10-12T19:32:36", "stage": "00.gpu_test", "wall_s": 1.389, "cpu_s": 5.24, "effective_cores": 3.77, "peak_rss_gb": 0.593, "avg_cpu_pct": 26.8, "peak_gpu_mem_mb": 1161.0}
+{"ts": "2026-10-12T19:32:38", "stage": "00.raw_csv_profile", "wall_s": 1.706, "cpu_s": 29.44, "effective_cores": 17.26, "peak_rss_gb": 1.852, "avg_cpu_pct": 91.5}
+{"ts": "2026-10-12T19:33:43", "stage": "01.csv_to_parquet", "wall_s": 8.104, "cpu_s": 109.97, "effective_cores": 13.57, "peak_rss_gb": 7.849, "avg_cpu_pct": 76.5}
+{"ts": "2026-10-12T19:33:48", "stage": "01.validate", "wall_s": 5.253, "cpu_s": 88.22, "effective_cores": 16.79, "peak_rss_gb": 8.863, "avg_cpu_pct": 91.5}
+{"ts": "2026-10-12T19:34:42", "stage": "01.csv_to_parquet", "wall_s": 8.134, "cpu_s": 110.44, "effective_cores": 13.58, "peak_rss_gb": 7.295, "avg_cpu_pct": 76.2}
+{"ts": "2026-10-12T19:34:47", "stage": "01.validate", "wall_s": 5.5, "cpu_s": 88.75, "effective_cores": 16.13, "peak_rss_gb": 8.683, "avg_cpu_pct": 91.6}
+{"ts": "2026-10-12T19:38:49", "stage": "01.csv_to_parquet", "wall_s": 7.888, "cpu_s": 111.58, "effective_cores": 14.15, "peak_rss_gb": 6.008, "avg_cpu_pct": 78.7}
+{"ts": "2026-10-12T19:38:54", "stage": "01.validate", "wall_s": 5.472, "cpu_s": 88.54, "effective_cores": 16.18, "peak_rss_gb": 8.724, "avg_cpu_pct": 92.0}
+{"ts": "2026-10-12T20:04:59", "stage": "02.calendar", "wall_s": 0.476, "cpu_s": 8.04, "effective_cores": 16.88, "peak_rss_gb": 0.427, "avg_cpu_pct": 96.7}
+{"ts": "2026-10-12T20:05:01", "stage": "02.station_hour", "wall_s": 1.776, "cpu_s": 29.81, "effective_cores": 16.79, "peak_rss_gb": 1.565, "avg_cpu_pct": 95.2}
+{"ts": "2026-10-12T20:05:02", "stage": "02.station_day_system_hour", "wall_s": 0.7, "cpu_s": 11.5, "effective_cores": 16.42, "peak_rss_gb": 1.566, "avg_cpu_pct": 97.0}
+{"ts": "2026-10-12T20:05:03", "stage": "02.od_month", "wall_s": 1.031, "cpu_s": 16.91, "effective_cores": 16.4, "peak_rss_gb": 1.482, "avg_cpu_pct": 93.5}
+{"ts": "2026-10-12T20:05:03", "stage": "02.write_marts", "wall_s": 0.247, "cpu_s": 2.25, "effective_cores": 9.1, "peak_rss_gb": 1.328, "avg_cpu_pct": 60.1}
+{"ts": "2026-10-12T20:14:29", "stage": "03.overview", "wall_s": 2.121, "cpu_s": 35.7, "effective_cores": 16.83, "peak_rss_gb": 9.802, "avg_cpu_pct": 92.1}
+{"ts": "2026-10-12T20:14:29", "stage": "03.sparsity", "wall_s": 0.414, "cpu_s": 2.66, "effective_cores": 6.42, "peak_rss_gb": 9.679, "avg_cpu_pct": 38.7}
+{"ts": "2026-10-12T20:14:29", "stage": "03.trip_buckets", "wall_s": 0.084, "cpu_s": 0.61, "effective_cores": 7.3, "peak_rss_gb": 9.381, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:15:48", "stage": "03.overview", "wall_s": 2.114, "cpu_s": 36.81, "effective_cores": 17.42, "peak_rss_gb": 9.956, "avg_cpu_pct": 96.7}
+{"ts": "2026-10-12T20:15:48", "stage": "03.sparsity", "wall_s": 0.371, "cpu_s": 2.34, "effective_cores": 6.31, "peak_rss_gb": 10.053, "avg_cpu_pct": 55.4}
+{"ts": "2026-10-12T20:15:48", "stage": "03.trip_buckets", "wall_s": 0.076, "cpu_s": 0.58, "effective_cores": 7.66, "peak_rss_gb": 9.996, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:23:16", "stage": "03.overview", "wall_s": 2.21, "cpu_s": 35.83, "effective_cores": 16.21, "peak_rss_gb": 9.792, "avg_cpu_pct": 92.1}
+{"ts": "2026-10-12T20:23:17", "stage": "03.sparsity", "wall_s": 0.398, "cpu_s": 2.5, "effective_cores": 6.28, "peak_rss_gb": 9.889, "avg_cpu_pct": 60.4}
+{"ts": "2026-10-12T20:23:17", "stage": "03.trip_buckets", "wall_s": 0.073, "cpu_s": 0.58, "effective_cores": 7.9, "peak_rss_gb": 9.621, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:23:21", "stage": "03.monthly_trend", "wall_s": 0.004, "cpu_s": 0.01, "effective_cores": 2.41, "peak_rss_gb": 0.447, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:23:26", "stage": "03.surge_days", "wall_s": 0.008, "cpu_s": 0.02, "effective_cores": 2.36, "peak_rss_gb": 0.458, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:23:43", "stage": "03.overview", "wall_s": 2.083, "cpu_s": 36.78, "effective_cores": 17.65, "peak_rss_gb": 9.98, "avg_cpu_pct": 96.0}
+{"ts": "2026-10-12T20:23:43", "stage": "03.sparsity", "wall_s": 0.382, "cpu_s": 2.41, "effective_cores": 6.31, "peak_rss_gb": 10.096, "avg_cpu_pct": 55.3}
+{"ts": "2026-10-12T20:23:44", "stage": "03.trip_buckets", "wall_s": 0.065, "cpu_s": 0.51, "effective_cores": 7.9, "peak_rss_gb": 9.99, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:23:47", "stage": "03.monthly_trend", "wall_s": 0.004, "cpu_s": 0.01, "effective_cores": 2.41, "peak_rss_gb": 0.789, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:23:52", "stage": "03.surge_days", "wall_s": 0.011, "cpu_s": 0.02, "effective_cores": 1.84, "peak_rss_gb": 0.799, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:24:08", "stage": "03.overview", "wall_s": 2.083, "cpu_s": 36.23, "effective_cores": 17.39, "peak_rss_gb": 10.291, "avg_cpu_pct": 96.6}
+{"ts": "2026-10-12T20:24:08", "stage": "03.sparsity", "wall_s": 0.401, "cpu_s": 2.46, "effective_cores": 6.14, "peak_rss_gb": 10.207, "avg_cpu_pct": 62.7}
+{"ts": "2026-10-12T20:24:09", "stage": "03.trip_buckets", "wall_s": 0.08, "cpu_s": 0.55, "effective_cores": 6.9, "peak_rss_gb": 10.102, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:24:13", "stage": "03.monthly_trend", "wall_s": 0.005, "cpu_s": 0.01, "effective_cores": 2.13, "peak_rss_gb": 0.968, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:24:17", "stage": "03.surge_days", "wall_s": 0.011, "cpu_s": 0.03, "effective_cores": 2.73, "peak_rss_gb": 0.974, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:26:04", "stage": "00.gpu_test", "wall_s": 1.39, "cpu_s": 5.06, "effective_cores": 3.64, "peak_rss_gb": 0.594, "avg_cpu_pct": 25.5, "peak_gpu_mem_mb": 1307.0}
+{"ts": "2026-10-12T20:26:06", "stage": "00.raw_csv_profile", "wall_s": 1.835, "cpu_s": 30.19, "effective_cores": 16.45, "peak_rss_gb": 2.064, "avg_cpu_pct": 92.8}
+{"ts": "2026-10-12T20:28:30", "stage": "03.overview", "wall_s": 2.152, "cpu_s": 36.08, "effective_cores": 16.76, "peak_rss_gb": 9.819, "avg_cpu_pct": 93.9}
+{"ts": "2026-10-12T20:28:30", "stage": "03.sparsity", "wall_s": 0.389, "cpu_s": 2.21, "effective_cores": 5.69, "peak_rss_gb": 9.747, "avg_cpu_pct": 54.2}
+{"ts": "2026-10-12T20:28:30", "stage": "03.trip_buckets", "wall_s": 0.062, "cpu_s": 0.48, "effective_cores": 7.76, "peak_rss_gb": 9.344, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:28:34", "stage": "03.monthly_trend", "wall_s": 0.004, "cpu_s": 0.01, "effective_cores": 2.57, "peak_rss_gb": 0.409, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:28:41", "stage": "03.surge_days", "wall_s": 0.01, "cpu_s": 0.02, "effective_cores": 2.08, "peak_rss_gb": 0.421, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:34:26", "stage": "03.overview", "wall_s": 2.243, "cpu_s": 35.37, "effective_cores": 15.77, "peak_rss_gb": 9.736, "avg_cpu_pct": 91.6}
+{"ts": "2026-10-12T20:34:27", "stage": "03.sparsity", "wall_s": 0.435, "cpu_s": 2.47, "effective_cores": 5.67, "peak_rss_gb": 9.668, "avg_cpu_pct": 41.0}
+{"ts": "2026-10-12T20:34:27", "stage": "03.trip_buckets", "wall_s": 0.074, "cpu_s": 0.52, "effective_cores": 7.01, "peak_rss_gb": 9.438, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:34:31", "stage": "03.monthly_trend", "wall_s": 0.003, "cpu_s": 0.0, "effective_cores": 0.0, "peak_rss_gb": 0.446, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:34:36", "stage": "03.surge_days", "wall_s": 0.008, "cpu_s": 0.02, "effective_cores": 2.4, "peak_rss_gb": 0.46, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:34:37", "stage": "03.station_period", "wall_s": 0.007, "cpu_s": 0.01, "effective_cores": 1.39, "peak_rss_gb": 0.461, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:43:54", "stage": "03.overview", "wall_s": 2.847, "cpu_s": 37.94, "effective_cores": 13.33, "peak_rss_gb": 9.599, "avg_cpu_pct": 95.2}
+{"ts": "2026-10-12T20:43:55", "stage": "03.sparsity", "wall_s": 0.606, "cpu_s": 3.22, "effective_cores": 5.32, "peak_rss_gb": 9.219, "avg_cpu_pct": 66.6}
+{"ts": "2026-10-12T20:43:55", "stage": "03.trip_buckets", "wall_s": 0.1, "cpu_s": 0.68, "effective_cores": 6.78, "peak_rss_gb": 8.38, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:44:01", "stage": "03.monthly_trend", "wall_s": 0.005, "cpu_s": 0.01, "effective_cores": 2.1, "peak_rss_gb": 0.445, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:44:08", "stage": "03.surge_days", "wall_s": 0.014, "cpu_s": 0.03, "effective_cores": 2.18, "peak_rss_gb": 0.455, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:44:10", "stage": "03.station_period", "wall_s": 0.009, "cpu_s": 0.03, "effective_cores": 3.17, "peak_rss_gb": 0.456, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:44:18", "stage": "03.od_period", "wall_s": 0.014, "cpu_s": 0.04, "effective_cores": 2.89, "peak_rss_gb": 0.467, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:44:22", "stage": "03.transbay", "wall_s": 0.024, "cpu_s": 0.09, "effective_cores": 3.8, "peak_rss_gb": 0.477, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:55:47", "stage": "03.overview", "wall_s": 2.122, "cpu_s": 36.51, "effective_cores": 17.2, "peak_rss_gb": 9.981, "avg_cpu_pct": 95.6}
+{"ts": "2026-10-12T20:55:48", "stage": "03.sparsity", "wall_s": 0.397, "cpu_s": 2.56, "effective_cores": 6.45, "peak_rss_gb": 9.805, "avg_cpu_pct": 55.6}
+{"ts": "2026-10-12T20:55:48", "stage": "03.trip_buckets", "wall_s": 0.065, "cpu_s": 0.54, "effective_cores": 8.25, "peak_rss_gb": 9.732, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:55:52", "stage": "03.monthly_trend", "wall_s": 0.003, "cpu_s": 0.01, "effective_cores": 3.11, "peak_rss_gb": 0.779, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:55:57", "stage": "03.surge_days", "wall_s": 0.009, "cpu_s": 0.04, "effective_cores": 4.27, "peak_rss_gb": 0.784, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:55:58", "stage": "03.station_period", "wall_s": 0.006, "cpu_s": 0.01, "effective_cores": 1.68, "peak_rss_gb": 0.781, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:56:03", "stage": "03.od_period", "wall_s": 0.008, "cpu_s": 0.04, "effective_cores": 4.82, "peak_rss_gb": 0.793, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:56:06", "stage": "03.transbay", "wall_s": 0.019, "cpu_s": 0.07, "effective_cores": 3.71, "peak_rss_gb": 0.798, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:56:08", "stage": "03.lag_correlation", "wall_s": 0.191, "cpu_s": 0.57, "effective_cores": 2.98, "peak_rss_gb": 0.973, "avg_cpu_pct": null}
+{"ts": "2026-10-12T20:56:10", "stage": "03.baselines", "wall_s": 0.205, "cpu_s": 2.65, "effective_cores": 12.96, "peak_rss_gb": 2.124, "avg_cpu_pct": 77.5}
+{"ts": "2026-10-12T21:18:49", "stage": "04.recovery_index", "wall_s": 0.016, "cpu_s": 0.02, "effective_cores": 1.21, "peak_rss_gb": 0.213, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:18:56", "stage": "04.station_recovery", "wall_s": 0.025, "cpu_s": 0.02, "effective_cores": 0.8, "peak_rss_gb": 0.24, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:35:53", "stage": "05.hourly", "wall_s": 0.005, "cpu_s": 0.02, "effective_cores": 4.28, "peak_rss_gb": 0.235, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:35:55", "stage": "05.peak_centre", "wall_s": 0.009, "cpu_s": 0.02, "effective_cores": 2.33, "peak_rss_gb": 0.259, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:35:57", "stage": "05.station_hour_recovery", "wall_s": 0.019, "cpu_s": 0.09, "effective_cores": 4.77, "peak_rss_gb": 0.269, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:36:23", "stage": "06.crossing_hour_from_fact", "wall_s": 0.214, "cpu_s": 2.24, "effective_cores": 10.46, "peak_rss_gb": 0.287, "avg_cpu_pct": 61.5}
+{"ts": "2026-10-12T21:36:54", "stage": "07.ebart", "wall_s": 0.01, "cpu_s": 0.03, "effective_cores": 3.1, "peak_rss_gb": 0.225, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:36:55", "stage": "07.warm_springs", "wall_s": 0.011, "cpu_s": 0.03, "effective_cores": 2.69, "peak_rss_gb": 0.258, "avg_cpu_pct": null}
+{"ts": "2026-10-12T21:36:56", "stage": "07.silicon_valley", "wall_s": 0.008, "cpu_s": 0.02, "effective_cores": 2.65, "peak_rss_gb": 0.268, "avg_cpu_pct": null}
+{"ts": "2026-10-12T22:19:20", "stage": "08.build_features", "wall_s": 2.231, "cpu_s": 33.8, "effective_cores": 15.15, "peak_rss_gb": 3.423, "avg_cpu_pct": 81.6}
+{"ts": "2026-10-12T22:19:21", "stage": "08.write_features", "wall_s": 0.747, "cpu_s": 13.09, "effective_cores": 17.52, "peak_rss_gb": 3.432, "avg_cpu_pct": 99.2}
+{"ts": "2026-10-12T22:20:30", "stage": "08.build_features", "wall_s": 2.254, "cpu_s": 34.18, "effective_cores": 15.16, "peak_rss_gb": 3.148, "avg_cpu_pct": 82.1}
+{"ts": "2026-10-12T22:20:31", "stage": "08.write_features", "wall_s": 0.728, "cpu_s": 13.04, "effective_cores": 17.92, "peak_rss_gb": 3.192, "avg_cpu_pct": 99.6}
+{"ts": "2026-10-12T22:45:13", "stage": "08.build_features", "wall_s": 2.292, "cpu_s": 33.72, "effective_cores": 14.71, "peak_rss_gb": 4.83, "avg_cpu_pct": 81.1}
+{"ts": "2026-10-12T22:45:13", "stage": "08.write_features", "wall_s": 0.755, "cpu_s": 12.82, "effective_cores": 16.99, "peak_rss_gb": 4.95, "avg_cpu_pct": 98.0}
+{"ts": "2026-10-12T22:45:15", "stage": "08.prepare_inputs", "wall_s": 0.055, "cpu_s": 0.11, "effective_cores": 2.0, "peak_rss_gb": 2.078, "avg_cpu_pct": null}
+{"ts": "2026-10-12T22:45:32", "stage": "08.variant_all", "wall_s": 17.654, "cpu_s": 43.98, "effective_cores": 2.49, "peak_rss_gb": 4.001, "avg_cpu_pct": 17.7, "peak_gpu_mem_mb": 1854.0, "variant": "all"}
+{"ts": "2026-10-12T22:45:43", "stage": "08.variant_weighted", "wall_s": 11.11, "cpu_s": 38.28, "effective_cores": 3.45, "peak_rss_gb": 5.292, "avg_cpu_pct": 22.2, "peak_gpu_mem_mb": 1721.0, "variant": "weighted"}
+{"ts": "2026-10-12T22:45:46", "stage": "08.variant_post_covid", "wall_s": 2.993, "cpu_s": 10.68, "effective_cores": 3.57, "peak_rss_gb": 3.965, "avg_cpu_pct": 23.2, "peak_gpu_mem_mb": 1525.0, "variant": "post_covid"}
+{"ts": "2026-10-12T22:48:33", "stage": "08.optuna_10_trials", "wall_s": 165.045, "cpu_s": 334.56, "effective_cores": 2.03, "peak_rss_gb": 8.657, "avg_cpu_pct": 13.0, "peak_gpu_mem_mb": 3140.0, "trials": 10}
+{"ts": "2026-10-13T00:48:50", "stage": "08.build_features", "wall_s": 2.41, "cpu_s": 34.35, "effective_cores": 14.25, "peak_rss_gb": 3.183, "avg_cpu_pct": 81.4}
+{"ts": "2026-10-13T00:48:50", "stage": "08.write_features", "wall_s": 0.737, "cpu_s": 12.93, "effective_cores": 17.55, "peak_rss_gb": 3.163, "avg_cpu_pct": 98.6}
+{"ts": "2026-10-13T00:48:51", "stage": "08.prepare_inputs", "wall_s": 0.073, "cpu_s": 0.12, "effective_cores": 1.64, "peak_rss_gb": 1.976, "avg_cpu_pct": null}
+{"ts": "2026-10-13T00:49:09", "stage": "08.variant_all", "wall_s": 17.794, "cpu_s": 45.85, "effective_cores": 2.58, "peak_rss_gb": 4.262, "avg_cpu_pct": 18.5, "peak_gpu_mem_mb": 1528.0, "variant": "all"}
+{"ts": "2026-10-13T00:49:20", "stage": "08.variant_weighted", "wall_s": 11.113, "cpu_s": 38.87, "effective_cores": 3.5, "peak_rss_gb": 5.288, "avg_cpu_pct": 22.2, "peak_gpu_mem_mb": 1493.0, "variant": "weighted"}
+{"ts": "2026-10-13T00:49:24", "stage": "08.variant_post_covid", "wall_s": 3.039, "cpu_s": 9.78, "effective_cores": 3.22, "peak_rss_gb": 3.978, "avg_cpu_pct": 21.4, "peak_gpu_mem_mb": 1241.0, "variant": "post_covid"}
+{"ts": "2026-10-13T00:52:14", "stage": "08.optuna_10_trials", "wall_s": 169.685, "cpu_s": 341.7, "effective_cores": 2.01, "peak_rss_gb": 8.654, "avg_cpu_pct": 13.6, "peak_gpu_mem_mb": 2695.0, "trials": 10}
+{"ts": "2026-10-13T01:20:20", "stage": "08.optuna_full", "wall_s": 1685.401, "cpu_s": 1736.76, "effective_cores": 1.03, "peak_rss_gb": 9.448, "avg_cpu_pct": 8.0, "peak_gpu_mem_mb": 3332.0, "trials": 50}
+{"ts": "2026-10-13T01:22:58", "stage": "08.learning_rate_check", "wall_s": 156.115, "cpu_s": 157.98, "effective_cores": 1.01, "peak_rss_gb": 9.318, "avg_cpu_pct": 7.8, "peak_gpu_mem_mb": 3346.0}
+{"ts": "2026-10-13T01:29:32", "stage": "08.final_models", "wall_s": 394.53, "cpu_s": 422.19, "effective_cores": 1.07, "peak_rss_gb": 10.955, "avg_cpu_pct": 8.4, "peak_gpu_mem_mb": 3847.0}
+{"ts": "2026-10-13T01:31:23", "stage": "08.shap", "wall_s": 105.247, "cpu_s": 105.99, "effective_cores": 1.01, "peak_rss_gb": 9.834, "avg_cpu_pct": 7.9, "peak_gpu_mem_mb": 3263.0}
+{"ts": "2026-10-13T02:18:06", "stage": "09.period_hours", "wall_s": 0.05, "cpu_s": 0.2, "effective_cores": 4.01, "peak_rss_gb": 0.292, "avg_cpu_pct": null}
+{"ts": "2026-10-13T02:18:12", "stage": "09.choose_k", "wall_s": 5.535, "cpu_s": 35.41, "effective_cores": 6.4, "peak_rss_gb": 0.396, "avg_cpu_pct": 40.4}
+{"ts": "2026-10-13T02:18:13", "stage": "09.final_kmeans", "wall_s": 0.018, "cpu_s": 0.22, "effective_cores": 12.09, "peak_rss_gb": 0.399, "avg_cpu_pct": null}
+{"ts": "2026-10-13T03:43:12", "stage": "10.backtest", "wall_s": 1915.435, "cpu_s": 2130.27, "effective_cores": 1.11, "peak_rss_gb": 5.183, "avg_cpu_pct": 8.7, "peak_gpu_mem_mb": 4477.0}
+{"ts": "2026-10-13T04:45:57", "stage": "12.day_profile", "wall_s": 0.031, "cpu_s": 0.11, "effective_cores": 3.58, "peak_rss_gb": 0.203, "avg_cpu_pct": null}
+{"ts": "2026-10-13T04:45:59", "stage": "12.od_pairs", "wall_s": 0.008, "cpu_s": 0.02, "effective_cores": 2.42, "peak_rss_gb": 0.296, "avg_cpu_pct": null}
+{"ts": "2026-10-13T04:46:02", "stage": "12.twelve_years", "wall_s": 0.008, "cpu_s": 0.01, "effective_cores": 1.26, "peak_rss_gb": 0.31, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:44:28", "stage": "00.gpu_test", "wall_s": 3.431, "cpu_s": 7.47, "effective_cores": 2.18, "peak_rss_gb": 0.596, "avg_cpu_pct": 15.3, "peak_gpu_mem_mb": 3405.0}
+{"ts": "2026-10-13T13:44:30", "stage": "00.raw_csv_profile", "wall_s": 1.707, "cpu_s": 29.68, "effective_cores": 17.39, "peak_rss_gb": 1.933, "avg_cpu_pct": 92.5}
+{"ts": "2026-10-13T13:45:21", "stage": "01.csv_to_parquet", "wall_s": 9.1, "cpu_s": 108.47, "effective_cores": 11.92, "peak_rss_gb": 6.31, "avg_cpu_pct": 71.6}
+{"ts": "2026-10-13T13:45:26", "stage": "01.validate", "wall_s": 5.25, "cpu_s": 88.87, "effective_cores": 16.93, "peak_rss_gb": 8.831, "avg_cpu_pct": 92.2}
+{"ts": "2026-10-13T13:48:05", "stage": "02.calendar", "wall_s": 0.481, "cpu_s": 8.03, "effective_cores": 16.69, "peak_rss_gb": 0.426, "avg_cpu_pct": 97.8}
+{"ts": "2026-10-13T13:48:07", "stage": "02.station_hour", "wall_s": 1.808, "cpu_s": 30.01, "effective_cores": 16.59, "peak_rss_gb": 1.562, "avg_cpu_pct": 93.2}
+{"ts": "2026-10-13T13:48:08", "stage": "02.station_day_system_hour", "wall_s": 0.718, "cpu_s": 11.64, "effective_cores": 16.22, "peak_rss_gb": 1.572, "avg_cpu_pct": 96.9}
+{"ts": "2026-10-13T13:48:09", "stage": "02.od_month", "wall_s": 1.047, "cpu_s": 17.43, "effective_cores": 16.64, "peak_rss_gb": 1.387, "avg_cpu_pct": 94.6}
+{"ts": "2026-10-13T13:48:10", "stage": "02.write_marts", "wall_s": 0.262, "cpu_s": 2.34, "effective_cores": 8.94, "peak_rss_gb": 1.095, "avg_cpu_pct": 64.6}
+{"ts": "2026-10-13T13:49:42", "stage": "03.overview", "wall_s": 2.22, "cpu_s": 36.18, "effective_cores": 16.3, "peak_rss_gb": 9.806, "avg_cpu_pct": 93.0}
+{"ts": "2026-10-13T13:49:42", "stage": "03.sparsity", "wall_s": 0.457, "cpu_s": 2.81, "effective_cores": 6.15, "peak_rss_gb": 9.762, "avg_cpu_pct": 48.2}
+{"ts": "2026-10-13T13:49:42", "stage": "03.trip_buckets", "wall_s": 0.098, "cpu_s": 0.63, "effective_cores": 6.46, "peak_rss_gb": 9.435, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:01", "stage": "03.monthly_trend", "wall_s": 0.003, "cpu_s": 0.01, "effective_cores": 3.11, "peak_rss_gb": 0.445, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:31", "stage": "03.surge_days", "wall_s": 0.011, "cpu_s": 0.03, "effective_cores": 2.73, "peak_rss_gb": 0.456, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:32", "stage": "03.station_period", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 2.97, "peak_rss_gb": 0.46, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:37", "stage": "03.od_period", "wall_s": 0.007, "cpu_s": 0.03, "effective_cores": 4.03, "peak_rss_gb": 0.474, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:40", "stage": "03.transbay", "wall_s": 0.017, "cpu_s": 0.06, "effective_cores": 3.51, "peak_rss_gb": 0.482, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:43", "stage": "03.lag_correlation", "wall_s": 0.186, "cpu_s": 0.51, "effective_cores": 2.74, "peak_rss_gb": 0.654, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:50:44", "stage": "03.baselines", "wall_s": 0.198, "cpu_s": 2.66, "effective_cores": 13.41, "peak_rss_gb": 0.745, "avg_cpu_pct": null}
+{"ts": "2026-10-13T13:56:41", "stage": "10.backtest", "wall_s": 0.0, "cpu_s": 0.0, "effective_cores": 0.0, "peak_rss_gb": 2.79, "avg_cpu_pct": null, "peak_gpu_mem_mb": 0.0}
+{"ts": "2026-10-13T13:57:16", "stage": "10.backtest", "wall_s": 0.001, "cpu_s": 0.0, "effective_cores": 0.0, "peak_rss_gb": 3.09, "avg_cpu_pct": null, "peak_gpu_mem_mb": 0.0}
+{"ts": "2026-10-13T14:03:18", "stage": "12.day_profile", "wall_s": 0.03, "cpu_s": 0.09, "effective_cores": 3.03, "peak_rss_gb": 0.202, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:03:24", "stage": "12.od_pairs", "wall_s": 0.007, "cpu_s": 0.03, "effective_cores": 4.59, "peak_rss_gb": 0.294, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:04:20", "stage": "12.day_profile", "wall_s": 0.011, "cpu_s": 0.07, "effective_cores": 6.65, "peak_rss_gb": 0.331, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:04:22", "stage": "12.od_pairs", "wall_s": 0.006, "cpu_s": 0.02, "effective_cores": 3.35, "peak_rss_gb": 0.357, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:04:25", "stage": "12.twelve_years", "wall_s": 0.007, "cpu_s": 0.01, "effective_cores": 1.38, "peak_rss_gb": 0.383, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:04:30", "stage": "12.recovery_race", "wall_s": 0.006, "cpu_s": 0.01, "effective_cores": 1.58, "peak_rss_gb": 0.49, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:04:33", "stage": "12.transbay_years", "wall_s": 0.223, "cpu_s": 3.46, "effective_cores": 15.49, "peak_rss_gb": 0.605, "avg_cpu_pct": 93.0}
+{"ts": "2026-10-13T14:05:44", "stage": "12.recovery_race", "wall_s": 0.006, "cpu_s": 0.02, "effective_cores": 3.25, "peak_rss_gb": 0.622, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:07:11", "stage": "12.day_profile", "wall_s": 0.01, "cpu_s": 0.08, "effective_cores": 7.9, "peak_rss_gb": 0.483, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:07:14", "stage": "12.od_pairs", "wall_s": 0.008, "cpu_s": 0.02, "effective_cores": 2.67, "peak_rss_gb": 0.518, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:07:20", "stage": "12.twelve_years", "wall_s": 0.008, "cpu_s": 0.01, "effective_cores": 1.28, "peak_rss_gb": 0.523, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:07:30", "stage": "12.recovery_race", "wall_s": 0.007, "cpu_s": 0.01, "effective_cores": 1.53, "peak_rss_gb": 0.54, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:07:39", "stage": "12.transbay_years", "wall_s": 0.219, "cpu_s": 3.41, "effective_cores": 15.56, "peak_rss_gb": 0.641, "avg_cpu_pct": 90.9}
+{"ts": "2026-10-13T14:23:30", "stage": "04.recovery_index", "wall_s": 0.004, "cpu_s": 0.01, "effective_cores": 2.76, "peak_rss_gb": 0.211, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:23:33", "stage": "04.station_recovery", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 2.97, "peak_rss_gb": 0.242, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:23:54", "stage": "00.gpu_test", "wall_s": 2.798, "cpu_s": 5.74, "effective_cores": 2.05, "peak_rss_gb": 0.594, "avg_cpu_pct": 12.3, "peak_gpu_mem_mb": 3669.0}
+{"ts": "2026-10-13T14:23:56", "stage": "00.raw_csv_profile", "wall_s": 1.676, "cpu_s": 29.3, "effective_cores": 17.49, "peak_rss_gb": 2.07, "avg_cpu_pct": 90.6}
+{"ts": "2026-10-13T14:30:19", "stage": "00.gpu_test", "wall_s": 2.897, "cpu_s": 6.04, "effective_cores": 2.09, "peak_rss_gb": 0.586, "avg_cpu_pct": 11.7, "peak_gpu_mem_mb": 1217.0}
+{"ts": "2026-10-13T14:30:22", "stage": "00.raw_csv_profile", "wall_s": 2.812, "cpu_s": 18.35, "effective_cores": 6.53, "peak_rss_gb": 2.048, "avg_cpu_pct": 35.5}
+{"ts": "2026-10-13T14:30:50", "stage": "01.csv_to_parquet", "wall_s": 7.454, "cpu_s": 110.81, "effective_cores": 14.87, "peak_rss_gb": 6.191, "avg_cpu_pct": 75.9}
+{"ts": "2026-10-13T14:30:55", "stage": "01.validate", "wall_s": 5.169, "cpu_s": 92.0, "effective_cores": 17.8, "peak_rss_gb": 8.368, "avg_cpu_pct": 90.1}
+{"ts": "2026-10-13T14:31:02", "stage": "02.calendar", "wall_s": 0.444, "cpu_s": 8.16, "effective_cores": 18.37, "peak_rss_gb": 0.422, "avg_cpu_pct": 99.1}
+{"ts": "2026-10-13T14:31:03", "stage": "02.station_hour", "wall_s": 1.605, "cpu_s": 29.66, "effective_cores": 18.48, "peak_rss_gb": 1.547, "avg_cpu_pct": 93.2}
+{"ts": "2026-10-13T14:31:04", "stage": "02.station_day_system_hour", "wall_s": 0.633, "cpu_s": 11.62, "effective_cores": 18.35, "peak_rss_gb": 1.536, "avg_cpu_pct": 95.7}
+{"ts": "2026-10-13T14:31:05", "stage": "02.od_month", "wall_s": 0.957, "cpu_s": 17.33, "effective_cores": 18.11, "peak_rss_gb": 1.532, "avg_cpu_pct": 99.7}
+{"ts": "2026-10-13T14:31:06", "stage": "02.write_marts", "wall_s": 0.233, "cpu_s": 2.23, "effective_cores": 9.57, "peak_rss_gb": 1.568, "avg_cpu_pct": 55.8}
+{"ts": "2026-10-13T14:31:11", "stage": "03.overview", "wall_s": 2.093, "cpu_s": 36.13, "effective_cores": 17.26, "peak_rss_gb": 9.808, "avg_cpu_pct": 92.3}
+{"ts": "2026-10-13T14:31:11", "stage": "03.sparsity", "wall_s": 0.374, "cpu_s": 2.17, "effective_cores": 5.81, "peak_rss_gb": 9.777, "avg_cpu_pct": 47.5}
+{"ts": "2026-10-13T14:31:11", "stage": "03.trip_buckets", "wall_s": 0.095, "cpu_s": 0.66, "effective_cores": 6.93, "peak_rss_gb": 9.474, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:15", "stage": "03.monthly_trend", "wall_s": 0.004, "cpu_s": 0.02, "effective_cores": 5.25, "peak_rss_gb": 0.433, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:21", "stage": "03.surge_days", "wall_s": 0.01, "cpu_s": 0.04, "effective_cores": 3.83, "peak_rss_gb": 0.441, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:22", "stage": "03.station_period", "wall_s": 0.006, "cpu_s": 0.01, "effective_cores": 1.69, "peak_rss_gb": 0.447, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:27", "stage": "03.od_period", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 2.81, "peak_rss_gb": 0.456, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:30", "stage": "03.transbay", "wall_s": 0.014, "cpu_s": 0.05, "effective_cores": 3.58, "peak_rss_gb": 0.46, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:33", "stage": "03.lag_correlation", "wall_s": 0.166, "cpu_s": 0.49, "effective_cores": 2.94, "peak_rss_gb": 0.635, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:34", "stage": "03.baselines", "wall_s": 0.201, "cpu_s": 2.68, "effective_cores": 13.32, "peak_rss_gb": 1.79, "avg_cpu_pct": 70.1}
+{"ts": "2026-10-13T14:31:38", "stage": "04.recovery_index", "wall_s": 0.003, "cpu_s": 0.02, "effective_cores": 6.19, "peak_rss_gb": 0.209, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:40", "stage": "04.station_recovery", "wall_s": 0.006, "cpu_s": 0.02, "effective_cores": 3.41, "peak_rss_gb": 0.237, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:47", "stage": "05.hourly", "wall_s": 0.022, "cpu_s": 0.03, "effective_cores": 1.34, "peak_rss_gb": 0.231, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:50", "stage": "05.peak_centre", "wall_s": 0.007, "cpu_s": 0.01, "effective_cores": 1.53, "peak_rss_gb": 0.255, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:51", "stage": "05.station_hour_recovery", "wall_s": 0.012, "cpu_s": 0.09, "effective_cores": 7.59, "peak_rss_gb": 0.264, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:31:55", "stage": "06.crossing_hour_from_fact", "wall_s": 0.222, "cpu_s": 2.09, "effective_cores": 9.43, "peak_rss_gb": 0.282, "avg_cpu_pct": 56.4}
+{"ts": "2026-10-13T14:32:01", "stage": "07.ebart", "wall_s": 0.008, "cpu_s": 0.03, "effective_cores": 3.6, "peak_rss_gb": 0.222, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:32:02", "stage": "07.warm_springs", "wall_s": 0.006, "cpu_s": 0.01, "effective_cores": 1.71, "peak_rss_gb": 0.252, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:32:03", "stage": "07.silicon_valley", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 2.88, "peak_rss_gb": 0.264, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:32:10", "stage": "08.build_features", "wall_s": 2.28, "cpu_s": 33.99, "effective_cores": 14.91, "peak_rss_gb": 3.391, "avg_cpu_pct": 77.3}
+{"ts": "2026-10-13T14:32:10", "stage": "08.write_features", "wall_s": 0.702, "cpu_s": 13.34, "effective_cores": 18.99, "peak_rss_gb": 3.413, "avg_cpu_pct": 99.4}
+{"ts": "2026-10-13T14:32:12", "stage": "08.prepare_inputs", "wall_s": 0.052, "cpu_s": 0.12, "effective_cores": 2.29, "peak_rss_gb": 1.998, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:32:43", "stage": "08.variant_all", "wall_s": 31.082, "cpu_s": 56.6, "effective_cores": 1.82, "peak_rss_gb": 4.233, "avg_cpu_pct": 10.9, "peak_gpu_mem_mb": 1650.0, "variant": "all"}
+{"ts": "2026-10-13T14:33:01", "stage": "08.variant_weighted", "wall_s": 17.854, "cpu_s": 44.37, "effective_cores": 2.49, "peak_rss_gb": 5.287, "avg_cpu_pct": 13.5, "peak_gpu_mem_mb": 1541.0, "variant": "weighted"}
+{"ts": "2026-10-13T14:33:06", "stage": "08.variant_post_covid", "wall_s": 5.641, "cpu_s": 12.15, "effective_cores": 2.15, "peak_rss_gb": 3.964, "avg_cpu_pct": 12.2, "peak_gpu_mem_mb": 1286.0, "variant": "post_covid"}
+{"ts": "2026-10-13T14:34:21", "stage": "04.recovery_index", "wall_s": 0.003, "cpu_s": 0.0, "effective_cores": 0.0, "peak_rss_gb": 0.209, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:34:24", "stage": "04.station_recovery", "wall_s": 0.008, "cpu_s": 0.03, "effective_cores": 3.72, "peak_rss_gb": 0.236, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:34:31", "stage": "05.hourly", "wall_s": 0.026, "cpu_s": 0.01, "effective_cores": 0.38, "peak_rss_gb": 0.232, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:34:34", "stage": "05.peak_centre", "wall_s": 0.009, "cpu_s": 0.02, "effective_cores": 2.18, "peak_rss_gb": 0.256, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:34:35", "stage": "05.station_hour_recovery", "wall_s": 0.014, "cpu_s": 0.07, "effective_cores": 4.98, "peak_rss_gb": 0.266, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:37:21", "stage": "08.optuna_10_trials", "wall_s": 253.63, "cpu_s": 408.0, "effective_cores": 1.61, "peak_rss_gb": 8.653, "avg_cpu_pct": 10.0, "peak_gpu_mem_mb": 2425.0, "trials": 10}
+{"ts": "2026-10-13T14:39:04", "stage": "00.gpu_test", "wall_s": 2.681, "cpu_s": 5.89, "effective_cores": 2.2, "peak_rss_gb": 0.594, "avg_cpu_pct": 12.1, "peak_gpu_mem_mb": 1120.0}
+{"ts": "2026-10-13T14:39:06", "stage": "00.raw_csv_profile", "wall_s": 1.66, "cpu_s": 29.28, "effective_cores": 17.63, "peak_rss_gb": 1.917, "avg_cpu_pct": 90.8}
+{"ts": "2026-10-13T14:39:37", "stage": "01.csv_to_parquet", "wall_s": 8.724, "cpu_s": 115.1, "effective_cores": 13.19, "peak_rss_gb": 6.975, "avg_cpu_pct": 79.7}
+{"ts": "2026-10-13T14:39:42", "stage": "01.validate", "wall_s": 5.165, "cpu_s": 89.78, "effective_cores": 17.38, "peak_rss_gb": 8.812, "avg_cpu_pct": 90.8}
+{"ts": "2026-10-13T14:39:49", "stage": "02.calendar", "wall_s": 0.439, "cpu_s": 8.23, "effective_cores": 18.74, "peak_rss_gb": 0.427, "avg_cpu_pct": 99.5}
+{"ts": "2026-10-13T14:39:51", "stage": "02.station_hour", "wall_s": 1.639, "cpu_s": 29.14, "effective_cores": 17.78, "peak_rss_gb": 1.572, "avg_cpu_pct": 92.0}
+{"ts": "2026-10-13T14:39:51", "stage": "02.station_day_system_hour", "wall_s": 0.642, "cpu_s": 11.48, "effective_cores": 17.89, "peak_rss_gb": 1.561, "avg_cpu_pct": 95.1}
+{"ts": "2026-10-13T14:39:52", "stage": "02.od_month", "wall_s": 0.979, "cpu_s": 17.33, "effective_cores": 17.7, "peak_rss_gb": 1.514, "avg_cpu_pct": 99.5}
+{"ts": "2026-10-13T14:39:53", "stage": "02.write_marts", "wall_s": 0.228, "cpu_s": 2.33, "effective_cores": 10.22, "peak_rss_gb": 1.055, "avg_cpu_pct": 58.3}
+{"ts": "2026-10-13T14:39:58", "stage": "03.overview", "wall_s": 2.043, "cpu_s": 36.36, "effective_cores": 17.8, "peak_rss_gb": 9.829, "avg_cpu_pct": 92.5}
+{"ts": "2026-10-13T14:39:58", "stage": "03.sparsity", "wall_s": 0.39, "cpu_s": 2.33, "effective_cores": 5.97, "peak_rss_gb": 9.739, "avg_cpu_pct": 50.4}
+{"ts": "2026-10-13T14:39:58", "stage": "03.trip_buckets", "wall_s": 0.063, "cpu_s": 0.49, "effective_cores": 7.77, "peak_rss_gb": 9.487, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:03", "stage": "03.monthly_trend", "wall_s": 0.005, "cpu_s": 0.01, "effective_cores": 1.97, "peak_rss_gb": 0.468, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:08", "stage": "03.surge_days", "wall_s": 0.01, "cpu_s": 0.03, "effective_cores": 2.94, "peak_rss_gb": 0.479, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:09", "stage": "03.station_period", "wall_s": 0.006, "cpu_s": 0.02, "effective_cores": 3.54, "peak_rss_gb": 0.484, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:15", "stage": "03.od_period", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 2.7, "peak_rss_gb": 0.492, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:18", "stage": "03.transbay", "wall_s": 0.015, "cpu_s": 0.05, "effective_cores": 3.29, "peak_rss_gb": 0.503, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:20", "stage": "03.lag_correlation", "wall_s": 0.167, "cpu_s": 0.48, "effective_cores": 2.87, "peak_rss_gb": 0.677, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:22", "stage": "03.baselines", "wall_s": 0.199, "cpu_s": 2.75, "effective_cores": 13.82, "peak_rss_gb": 0.769, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:24", "stage": "04.recovery_index", "wall_s": 0.003, "cpu_s": 0.02, "effective_cores": 6.37, "peak_rss_gb": 0.209, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:27", "stage": "04.station_recovery", "wall_s": 0.005, "cpu_s": 0.01, "effective_cores": 1.96, "peak_rss_gb": 0.238, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:34", "stage": "05.hourly", "wall_s": 0.012, "cpu_s": 0.01, "effective_cores": 0.86, "peak_rss_gb": 0.232, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:36", "stage": "05.peak_centre", "wall_s": 0.006, "cpu_s": 0.02, "effective_cores": 3.39, "peak_rss_gb": 0.255, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:38", "stage": "05.station_hour_recovery", "wall_s": 0.011, "cpu_s": 0.08, "effective_cores": 6.99, "peak_rss_gb": 0.265, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:42", "stage": "06.crossing_hour_from_fact", "wall_s": 0.213, "cpu_s": 2.21, "effective_cores": 10.36, "peak_rss_gb": 0.283, "avg_cpu_pct": 55.8}
+{"ts": "2026-10-13T14:40:47", "stage": "07.ebart", "wall_s": 0.008, "cpu_s": 0.02, "effective_cores": 2.45, "peak_rss_gb": 0.222, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:49", "stage": "07.warm_springs", "wall_s": 0.006, "cpu_s": 0.02, "effective_cores": 3.49, "peak_rss_gb": 0.252, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:50", "stage": "07.silicon_valley", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 3.06, "peak_rss_gb": 0.263, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:40:56", "stage": "08.build_features", "wall_s": 2.1, "cpu_s": 33.97, "effective_cores": 16.17, "peak_rss_gb": 3.342, "avg_cpu_pct": 81.0}
+{"ts": "2026-10-13T14:40:57", "stage": "08.write_features", "wall_s": 0.692, "cpu_s": 12.9, "effective_cores": 18.63, "peak_rss_gb": 3.388, "avg_cpu_pct": 95.4}
+{"ts": "2026-10-13T14:40:58", "stage": "08.prepare_inputs", "wall_s": 0.049, "cpu_s": 0.1, "effective_cores": 2.06, "peak_rss_gb": 2.014, "avg_cpu_pct": null}
+{"ts": "2026-10-13T14:41:29", "stage": "08.variant_all", "wall_s": 31.41, "cpu_s": 58.02, "effective_cores": 1.85, "peak_rss_gb": 4.254, "avg_cpu_pct": 10.7, "peak_gpu_mem_mb": 1382.0, "variant": "all"}
+{"ts": "2026-10-13T14:41:47", "stage": "08.variant_weighted", "wall_s": 17.787, "cpu_s": 43.49, "effective_cores": 2.45, "peak_rss_gb": 5.284, "avg_cpu_pct": 13.6, "peak_gpu_mem_mb": 1678.0, "variant": "weighted"}
+{"ts": "2026-10-13T14:41:53", "stage": "08.variant_post_covid", "wall_s": 5.892, "cpu_s": 12.36, "effective_cores": 2.1, "peak_rss_gb": 3.953, "avg_cpu_pct": 12.1, "peak_gpu_mem_mb": 1116.0, "variant": "post_covid"}
+{"ts": "2026-10-13T14:47:14", "stage": "08.optuna_10_trials", "wall_s": 319.412, "cpu_s": 485.11, "effective_cores": 1.52, "peak_rss_gb": 8.648, "avg_cpu_pct": 8.7, "peak_gpu_mem_mb": 2836.0, "trials": 10}
+{"ts": "2026-10-13T14:52:53", "stage": "08.learning_rate_check", "wall_s": 337.425, "cpu_s": 338.76, "effective_cores": 1.0, "peak_rss_gb": 8.723, "avg_cpu_pct": 6.2, "peak_gpu_mem_mb": 3392.0}
+{"ts": "2026-10-13T15:05:57", "stage": "08.final_models", "wall_s": 784.008, "cpu_s": 806.96, "effective_cores": 1.03, "peak_rss_gb": 10.236, "avg_cpu_pct": 6.3, "peak_gpu_mem_mb": 3523.0}
+{"ts": "2026-10-13T15:10:56", "stage": "08.shap", "wall_s": 293.515, "cpu_s": 294.66, "effective_cores": 1.0, "peak_rss_gb": 9.152, "avg_cpu_pct": 6.9, "peak_gpu_mem_mb": 3763.0}
+{"ts": "2026-10-13T15:11:00", "stage": "09.period_hours", "wall_s": 0.06, "cpu_s": 0.2, "effective_cores": 3.32, "peak_rss_gb": 0.289, "avg_cpu_pct": null}
+{"ts": "2026-10-13T15:11:06", "stage": "09.choose_k", "wall_s": 6.046, "cpu_s": 46.34, "effective_cores": 7.66, "peak_rss_gb": 0.392, "avg_cpu_pct": 39.0}
+{"ts": "2026-10-13T15:11:08", "stage": "09.final_kmeans", "wall_s": 0.017, "cpu_s": 0.21, "effective_cores": 12.59, "peak_rss_gb": 0.396, "avg_cpu_pct": null}
+{"ts": "2026-10-13T15:11:15", "stage": "10.backtest", "wall_s": 0.001, "cpu_s": 0.0, "effective_cores": 0.0, "peak_rss_gb": 1.659, "avg_cpu_pct": null, "peak_gpu_mem_mb": 0.0}
+{"ts": "2026-10-13T15:11:28", "stage": "12.day_profile", "wall_s": 0.023, "cpu_s": 0.09, "effective_cores": 3.92, "peak_rss_gb": 0.199, "avg_cpu_pct": null}
+{"ts": "2026-10-13T15:11:31", "stage": "12.od_pairs", "wall_s": 0.005, "cpu_s": 0.02, "effective_cores": 4.11, "peak_rss_gb": 0.29, "avg_cpu_pct": null}
+{"ts": "2026-10-13T15:11:33", "stage": "12.twelve_years", "wall_s": 0.005, "cpu_s": 0.0, "effective_cores": 0.0, "peak_rss_gb": 0.315, "avg_cpu_pct": null}
+{"ts": "2026-10-13T15:11:38", "stage": "12.recovery_race", "wall_s": 0.007, "cpu_s": 0.02, "effective_cores": 2.85, "peak_rss_gb": 0.435, "avg_cpu_pct": null}
+{"ts": "2026-10-13T15:11:41", "stage": "12.transbay_years", "wall_s": 0.204, "cpu_s": 3.4, "effective_cores": 16.69, "peak_rss_gb": 0.552, "avg_cpu_pct": 85.5}
+{"ts": "2026-10-13T16:07:02", "stage": "01.csv_to_parquet", "wall_s": 9.156, "cpu_s": 112.11, "effective_cores": 12.24, "peak_rss_gb": 7.224, "avg_cpu_pct": 75.0}
+{"ts": "2026-10-13T16:07:08", "stage": "01.validate", "wall_s": 5.572, "cpu_s": 91.7, "effective_cores": 16.46, "peak_rss_gb": 8.575, "avg_cpu_pct": 92.6}
+{"ts": "2026-10-13T17:41:07", "stage": "13.grid_search", "wall_s": 184.139, "cpu_s": 3435.97, "effective_cores": 18.66, "peak_rss_gb": 0.397, "avg_cpu_pct": 96.3, "models": 117}
+{"ts": "2026-10-13T17:43:46", "stage": "13.rolling_cv", "wall_s": 158.924, "cpu_s": 2891.61, "effective_cores": 18.19, "peak_rss_gb": 0.398, "avg_cpu_pct": 93.7, "origins": 37, "models": 7}
+{"ts": "2026-10-13T17:57:30", "stage": "13.grid_search", "wall_s": 137.942, "cpu_s": 2605.61, "effective_cores": 18.89, "peak_rss_gb": 0.391, "avg_cpu_pct": 96.5, "models": 117}
+{"ts": "2026-10-13T17:59:47", "stage": "13.rolling_cv", "wall_s": 137.289, "cpu_s": 2478.84, "effective_cores": 18.06, "peak_rss_gb": 0.383, "avg_cpu_pct": 92.9, "origins": 37, "models": 8}
+{"ts": "2026-10-13T18:06:05", "stage": "13.grid_search", "wall_s": 147.364, "cpu_s": 2780.47, "effective_cores": 18.87, "peak_rss_gb": 0.393, "avg_cpu_pct": 96.3, "models": 117}
+{"ts": "2026-10-13T18:08:35", "stage": "13.rolling_cv", "wall_s": 149.562, "cpu_s": 2707.97, "effective_cores": 18.11, "peak_rss_gb": 0.394, "avg_cpu_pct": 93.1, "origins": 37, "models": 8}
+{"ts": "2026-10-13T18:15:13", "stage": "13.grid_search", "wall_s": 166.337, "cpu_s": 3127.8, "effective_cores": 18.8, "peak_rss_gb": 0.393, "avg_cpu_pct": 95.8, "models": 117}
+{"ts": "2026-10-13T18:17:37", "stage": "13.rolling_cv", "wall_s": 143.472, "cpu_s": 2582.64, "effective_cores": 18.0, "peak_rss_gb": 0.393, "avg_cpu_pct": 92.5, "origins": 37, "models": 8}
+{"ts": "2026-10-13T18:23:41", "stage": "13.grid_search", "wall_s": 213.479, "cpu_s": 3944.44, "effective_cores": 18.48, "peak_rss_gb": 0.394, "avg_cpu_pct": 97.1, "models": 117}
+{"ts": "2026-10-13T18:26:42", "stage": "13.rolling_cv", "wall_s": 181.025, "cpu_s": 3255.38, "effective_cores": 17.98, "peak_rss_gb": 0.394, "avg_cpu_pct": 94.4, "origins": 37, "models": 8}
+{"ts": "2026-10-13T18:43:10", "stage": "13.grid_search", "wall_s": 518.771, "cpu_s": 6740.01, "effective_cores": 12.99, "peak_rss_gb": 0.39, "avg_cpu_pct": 99.3, "models": 117}
+{"ts": "2026-10-13T18:45:22", "stage": "13.rolling_cv", "wall_s": 131.761, "cpu_s": 2370.08, "effective_cores": 17.99, "peak_rss_gb": 0.384, "avg_cpu_pct": 93.2, "origins": 37, "models": 8}

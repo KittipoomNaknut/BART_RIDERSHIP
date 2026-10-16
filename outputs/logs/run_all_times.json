@@ -1,0 +1,16 @@
+{
+  "00_setup_and_machine": 8.4,
+  "01_ingest": 38.7,
+  "02_marts": 8.6,
+  "03_eda": 28.5,
+  "04_q1_recovery": 9.3,
+  "05_q2_peak_shape": 8.0,
+  "06_q3_load_flows": 5.5,
+  "07_q4_new_stations": 6.5,
+  "08_m1_forecast": 1805.8,
+  "09_m2_station_typology": 15.0,
+  "10_m3_backtest_events": 9.1,
+  "11_summary": 6.0,
+  "12_super_viz": 16.0,
+  "13_q1_counterfactual": 698.1
+}

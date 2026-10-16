@@ -1,0 +1,26 @@
+[project]
+name = "bart-ridership"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.5.6",
+    "holidays>=0.106",
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "kaleido>=1.5.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "optuna>=5.0.0",
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "polars>=2.0.0",
+    "psutil>=7.2.2",
+    "pyarrow>=26.0.0",
+    "scikit-learn>=1.9.1",
+    "shap>=0.53.0",
+    "statsmodels>=0.15.0",
+    "xgboost>=3.4.1",
+]
+
+[tool.uv]
+package = false

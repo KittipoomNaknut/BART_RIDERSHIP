@@ -1,0 +1,6 @@
+segment,coverage before %,coverage after %,band width before,band width after,width change %
+all hours,80.4,80.0,38.4,39.2,2.1
+AM peak (workday 6-9),72.6,79.6,57.5,68.0,18.3
+PM peak (workday 15-18),75.8,80.5,71.6,79.6,11.2
+workday off-peak,82.8,79.9,27.8,25.7,-7.4
+weekend / holiday,81.5,80.2,34.8,33.6,-3.4

@@ -1,0 +1,13 @@
+all 1 notebooks                0%|                              | 0/14 cells [00:00<?]
+  04_q1_recovery               0%|                              | 0/14 cells [00:00<?][A[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+
+  04_q1_recovery               7%|██▏                           | 1/14 cells [00:01<00:15][Aall 1 notebooks                7%|██▏                           | 1/14 cells [00:01<00:15]
+  04_q1_recovery              29%|████████▌                     | 4/14 cells [00:02<00:05][Aall 1 notebooks               29%|████████▌                     | 4/14 cells [00:02<00:05]
+  04_q1_recovery              50%|███████████████               | 7/14 cells [00:03<00:03][Aall 1 notebooks               50%|███████████████               | 7/14 cells [00:03<00:03]
+  04_q1_recovery              64%|███████████████████▎          | 9/14 cells [00:04<00:02][Aall 1 notebooks               64%|███████████████████▎          | 9/14 cells [00:04<00:02]
+  04_q1_recovery              71%|█████████████████████▍        | 10/14 cells [00:06<00:02][Aall 1 notebooks               71%|█████████████████████▍        | 10/14 cells [00:06<00:02]
+  04_q1_recovery              86%|█████████████████████████▋    | 12/14 cells [00:07<00:01][Aall 1 notebooks               86%|█████████████████████████▋    | 12/14 cells [00:07<00:01]
+  04_q1_recovery             100%|██████████████████████████████| 14/14 cells [00:08<00:00][Aall 1 notebooks              100%|██████████████████████████████| 14/14 cells [00:08<00:00]
+                                                                                           [A                                                                                           ok      04_q1_recovery.ipynb                14 cells  8.7 s
+all 1 notebooks              100%|██████████████████████████████| 14/14 cells [00:08<00:00]all 1 notebooks              100%|██████████████████████████████| 14/14 cells [00:08<00:00]
+all 1 notebooks ran and were saved in 8.7 s
